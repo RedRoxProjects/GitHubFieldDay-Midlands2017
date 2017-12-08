@@ -2,7 +2,7 @@
 
 Hello lovely people! 
 
-In this repository you'll find PDFs of [**our menu**](https://github.com/RedRoxProjects/GitHubFieldDay-Midlands2017/blob/master/Field%20Day%20Menu.pdf), **discussion guide** and an **information.md** file, where you'll find the names and details of our volunteers plus information about the venue. 
+In this repository you'll find PDFs of [**our menu**](https://github.com/RedRoxProjects/GitHubFieldDay-Midlands2017/blob/master/Field%20Day%20Menu.pdf), [**discussion guide**](https://github.com/RedRoxProjects/GitHubFieldDay-Midlands2017/blob/master/Discussion%20Guide%20Field%20Day.pdf) and an [**information.md**](https://github.com/RedRoxProjects/GitHubFieldDay-Midlands2017/blob/master/information.md) file, where you'll find the names and details of our volunteers plus information about the venue. 
  
 We look forward to meeting you and hope you have a great day :sparkles: :octocat: 
 
