@@ -38,7 +38,7 @@ Throughout the day refreshments will be available in the cafe area - please help
 
 We would like to remind you that by attending this event you have agreed to abide by our [Code of Conduct](https://githubfieldday.com/midlands2017/coc/). 
 
-A safety briefing specific to the event venue will be given in the opening talk. :hazard: 
+A safety briefing specific to the event venue will be given in the opening talk. :white_check_mark:
 
 In the event of an emergency please follow directions given by the venue staff and volunteers. 
 
