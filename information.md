@@ -30,7 +30,7 @@ Their names and pronouns are:
 
 # Food Glorious Food :fork_and_knife:
 
-Our menu for this event can be found [here](#) - if you have a very specific dietary requirement that we haven't catered for then please alert us on arrival. We will make sure you are catered for! :sparkles:
+Our menu for this event can be found [here](https://github.com/RedRoxProjects/GitHubFieldDay-Midlands2017/blob/master/Field%20Day%20Menu.pdf) - if you have a very specific dietary requirement that we haven't catered for then please alert us on arrival. We will make sure you are catered for! :sparkles:
 
 Throughout the day refreshments will be available in the cafe area - please help us to keep the space tidy and use the bins provided for recyclables and rubbish. :do_not_litter: :recycle:
 
